@@ -6,3 +6,7 @@
 ### 2. 참고
 
 https://github.com/tai/dc6006l
+
+### 3. 스크린샷
+
+![ex_screenshot](./sc/sc.png)
